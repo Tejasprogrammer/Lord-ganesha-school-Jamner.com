@@ -1,41 +1,34 @@
+body {
+    text-align: center;
+}
 
-        body {
-            text-align: center;
-            background-color: yellowgreen;
-        }
+html {
+    scroll-behavior: smooth;
+}
 
-        #firstp {
-            word-spacing: 10px;
-            font-variant: small-caps;
-            font-size: 50px;
-            text-align: center;
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
 
-        }
+#marqueestyle {
+    background-color: blue;
+    color: white;
+}
 
-        #reasontext {
-            font-size: 30px;
-            color: #303F9F;
-        }
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
 
-        #album {
-            border-style: solid;
-            border-color: red;
-            width: 500px;
-            padding: 5px;
-            border-radius: 60px;
-        }
+#map iframe {
+    width: 100%;
+}
 
-        button {
-            width: 200px;
-            height: 50px;
-            background-color: yellow;
-            font-size: 30px;
+#Details h3 {
+    display: inline;
+}
 
-        }
 
-        p {
-            font-size: 30px;
-            color: blue;
-        }
-
-   
