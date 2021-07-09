@@ -66,3 +66,48 @@ html {
 #Details h3 {
     display: inline;
 }
+
+.whats_new_li {
+    margin-top: 13px;
+}
+
+.whats_new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whats_new_li p {
+    margin-top: 10px;
+}
+
+.whats_new_li img {
+    border-radius: 25px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.alumni {
+    cursor: pointer;
+}
+
+.alumni hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
